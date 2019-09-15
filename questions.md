@@ -12,10 +12,8 @@
    Do some googling to find out how you can open the Chrome console. Then, try to find a website that has errors 
    — visit a website, open the console, and see if there are any red-highlighted items. 
    Take a screenshot and upload it into your repository.
+      
       Click the right mouse and then click inspect. There is a menu called console. 
-      
-      
-      
       
       
       https://github.com/SEOJU-JUNG/scima/blob/gh-pages/screenshot_1.png?raw=true
