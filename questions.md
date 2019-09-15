@@ -18,7 +18,7 @@
       
       
       
-      (https://raw.githubusercontent.com/SEOJU-JUNG/scima/blob/gh-pages/screenshot_1.png?raw=true)
+      (screenshot_1.png)
       
 4. What is the keyboard shortcut to open the JavaScript console in Chrome on your system?
       
