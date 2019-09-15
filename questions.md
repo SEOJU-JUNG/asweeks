@@ -14,9 +14,8 @@
    Take a screenshot and upload it into your repository.
       
       Click the right mouse and then click inspect. There is a menu called console. 
-      
-      
-      https://github.com/SEOJU-JUNG/scima/blob/gh-pages/screenshot_1.png?raw=true
+      Website image: https://github.com/SEOJU-JUNG/scima/blob/gh-pages/screenshot_1.png?raw=true
       
 4. What is the keyboard shortcut to open the JavaScript console in Chrome on your system?
+      Comand + shift + c
       
